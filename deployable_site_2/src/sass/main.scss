@@ -1,0 +1,37 @@
+
+// Font.
+$font: (
+  primary: ("Muli",sans-serif)
+);
+
+// Palette.
+$palette: (
+  primary:       #272c30,
+  primary-alt:   lighten(#272c30, 60%),
+  secondary:     lighten(#272c30, 15%),
+  meta:          lighten(#272c30, 45%),
+  border:        #e8e8e8,
+  border-alt:    lighten(#272c30, 7%),
+  accent:        #d8195e,
+  accent-blue:   #0c8aea,
+  accent-green:  #0da5b1,
+  accent-violet: #7c43a8,
+  accent-yellow: #ed9700
+);
+
+@import "imports/functions";
+
+@import "fontawesome.min.css";
+@import "brands.min.css";
+
+@import "imports/reset";
+@import "imports/general";
+@import "imports/icons";
+@import "imports/animations";
+@import "imports/structure";
+@import "imports/header";
+@import "imports/content";
+@import "imports/sections";
+@import "imports/footer";
+@import "imports/palettes";
+@import "imports/banner";
