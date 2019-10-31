@@ -1,9 +1,9 @@
 {
   "title": "Anup Vasudevan's Portfolio Site",
-  "color_scheme": "dark",
+  "color_scheme": "light",
   "accent_color": "pink",
   "header": {
-    "title": "AnupVasudevan.Com",
+    "title": "Anup Vasudevan",
     "has_nav": true
   },
   "footer": {
