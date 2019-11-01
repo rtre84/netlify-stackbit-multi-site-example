@@ -1,0 +1,14 @@
+- id: Ghost
+  avatar: avatars/ghost.png
+  bio: The professional publishing platform
+  twitter: thechronicler 
+  website: https://ghost.org/
+  location: On a plane
+- id: Another Author
+  avatar: avatars/ghost.png
+  bio: Me as another test author
+  twitter: thechronicler
+  facebook: /
+  website: https://anupvasudevan.com/
+  location: On a plane
+  profile_image: img/alex-knight-326705-unsplash.jpg
