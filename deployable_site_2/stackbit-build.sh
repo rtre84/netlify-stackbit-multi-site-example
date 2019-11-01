@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 set -e
-set -o pipefail
+# set -o pipefail
 set -v
 
-# gatsby build
+gatsby build
+exit 0
