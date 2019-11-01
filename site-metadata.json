@@ -1,14 +1,12 @@
 {
   "title": "Anup Vasudevan's Portfolio Site",
-  "color_scheme": "light",
-  "accent_color": "pink",
   "header": {
     "title": "Anup Vasudevan",
     "logo_img": "",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Anup Vasudevan. All rights reserved.",
+    "content": "&copy; 2008 - 2019 | Anup Vasudevan. All rights reserved.",
     "links": [
       {
         "text": "Made with Stackbit",
