@@ -19,7 +19,7 @@
     "gatsby-transformer-remark": "2.3.8",
     "js-yaml": "^3.12.2",
     "lodash": "^4.17.11",
-    "marked": "^0.6.1",
+    "marked": "^0.7.0",
     "moment": "^2.23.0",
     "moment-strftime": "^0.5.0",
     "node-sass": "^4.11.0",
