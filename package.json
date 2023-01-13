@@ -16,7 +16,7 @@
     "gatsby": "2.3.30",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-source-filesystem": "2.0.28",
-    "gatsby-transformer-remark": "2.3.8",
+    "gatsby-transformer-remark": "5.25.1",
     "js-yaml": "^3.12.2",
     "lodash": "^4.17.11",
     "marked": "^4.0.10",
